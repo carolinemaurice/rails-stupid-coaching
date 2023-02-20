@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.coachingContainer {
+  padding: 30px;
+}
+
+.coachingBorder {
+  border-left: 5px solid lightgray;
+  padding-left: 25px;
+}
